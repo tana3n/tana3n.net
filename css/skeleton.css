@@ -46,6 +46,7 @@
   border-radius: 20px;
   box-sizing: border-box; 
   padding: 20px;
+  border: 0;
 }
 
 /* For devices larger than 400px */
@@ -336,9 +337,9 @@ pre > code {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 th,
 td {
-  padding: 12px 15px;
+  padding: 0px 10px;
   text-align: left;
-  border-bottom: 1px solid #E1E1E1; }
+  border: 0;}
 th:first-child,
 td:first-child {
   padding-left: 0; }
